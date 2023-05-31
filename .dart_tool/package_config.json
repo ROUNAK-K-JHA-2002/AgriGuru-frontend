@@ -62,6 +62,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "get",
+      "rootUri": "file:///home/dextrix/.pub-cache/hosted/pub.dev/get-4.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "js",
       "rootUri": "file:///home/dextrix/.pub-cache/hosted/pub.dev/js-0.6.5",
       "packageUri": "lib/",
@@ -94,6 +100,12 @@
     {
       "name": "path",
       "rootUri": "file:///home/dextrix/.pub-cache/hosted/pub.dev/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "responsive_sizer",
+      "rootUri": "file:///home/dextrix/.pub-cache/hosted/pub.dev/responsive_sizer-3.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +164,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-30T18:09:04.927958Z",
+  "generated": "2023-05-31T05:02:57.337430Z",
   "generator": "pub",
   "generatorVersion": "2.19.5"
 }
