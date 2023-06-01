@@ -30,6 +30,7 @@ environment:
 dependencies:
   get: ^4.6.5
   responsive_sizer: ^3.1.1
+  otp_text_field: ^1.1.3
   flutter:
     sdk: flutter
 
@@ -82,6 +83,9 @@ flutter:
     - family: Rubik
       fonts:
         - asset: fonts/Rubik.ttf
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto.ttf
 
   #
   # For details regarding fonts from package dependencies,
